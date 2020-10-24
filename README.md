@@ -1,4 +1,4 @@
-# YaMarketParser
+# YaMarketParser - YaM_Counter.ipynb
 
 # Парсер для Я.Маркет
 unique - list[string] - список уникальных элементов
